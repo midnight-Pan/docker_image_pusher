@@ -1,4 +1,1 @@
-robcowart/elastiflow-logstash
-docker.elastic.co/kibana/kibana
-docker.elastic.co/elasticsearch/elasticsearch
-
+library/centos
